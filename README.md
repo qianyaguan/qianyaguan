@@ -77,7 +77,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Enhancing Robustness of Backdoor Attacks on Real-world Object Detection Systems**  
   **Yaguan Qian**, Boyuan Ji, Shuke He, Shenghui Huang, Xiang Ling, Bin Wang*, Wei Wang*  
-  Journal of Computer Security, 2025, 33(4) [PDF]()]
+  Journal of Computer Security, 2025, 33(4) [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-JCS.pdf)]
 
 - **Denoising Deep Features of Convolutional Neural Networks against Adversarial Examples**  
   Jianchang Huang, Yinyao Dai, Fang Lu, Bin Wang, Zhaoquan Gu, Boyang Zhou, **Yaguan Qian***  
