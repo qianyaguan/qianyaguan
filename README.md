@@ -113,15 +113,16 @@ My research interests mainly include large model security, intelligent system se
 
 - **Developing Hessian-Free Second-Order Adversarial Examples for Adversarial Learning**  
   **Yaguan Qian**, Liangjian Zhang, Yuqi Wang, Boyuan Ji, Tengteng Yao, Bin Wang*  
-  International Journal of Applied Mathematics and Computer Science, 34(3), 2024 [PDF]()]
+  International Journal of Applied Mathematics and Computer Science, 34(3), 2024 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-IJAMCS.pdf)]
 
 - **Adversarial Training in Logit Space against Tiny Perturbations**  
   Xiaohui Guan, Qiqi Shao, **Yaguan Qian***, Tengteng Yao, Bin Wang  
-  Multimedia Systems, 2023 [PDF]()]
+  Multimedia Systems, 2023 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2023-MS.pdf)]
 
 - **Enhancing Transferability of Targeted Adversarial Examples through Amplitude Spectrum Adjustment**  
   **Yaguan Qian**, Jiaqiang Sha, Pan Zhou, Wei Wang, Bin Wang*, Zhaoquan Gu*, Yanchun Zhang  
-  Multimedia Systems, 2025 [PDF]()]
+  Multimedia Systems, [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-MS.pdf)]
+
 
 ## Contact
 Email: qianyaguan@zust.edu.cn  
