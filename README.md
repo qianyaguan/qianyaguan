@@ -1,4 +1,4 @@
-# <span style="color:#0366d6;">Yaguan Qian</span>
+# <span style="color:#0366d6;">Yaguan Qian (钱亚冠)</span>
 ## About Me
 I am currently a Full Professor at Zhejiang University of Science and Technology.
 My research interests mainly include large model security, intelligent system security, trustworthy AI, multimodal adversarial attacks and defenses.
