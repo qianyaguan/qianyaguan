@@ -97,15 +97,15 @@ My research interests mainly include large model security, intelligent system se
 
 - **Improving Adversarial Robustness of Medical Imaging Systems via Adding Global Attention Noise**  
   Yinyao Dai, **Yaguan Qian***, Fang Lu, Bin Wang*, Zhaoquan Gu, Wei Wang, Jian Wan, Yanchun Zhang  
-  Computers in Biology and Medicine, 164, 2023, pp. 1-11 [PDF]()]
+  Computers in Biology and Medicine, 164, 2023, pp. 1-11 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2023-CBM.pdf)]
 
 - **Towards Desirable Decision Boundary by Moderate-Margin Adversarial Training**  
   Xiaoyu Liang, **Yaguan Qian***, Jianchang Huang, Xiang Ling, Bin Wang, Chunming Wu  
-  Pattern Recognition Letters, 173, 2023, pp. 30-37 [PDF]()]
+  Pattern Recognition Letters, 173, 2023, pp. 30-37 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2023-PRL.pdf)]
 
 - **Unveiling the Veil: High-frequency Components as the Key to Understanding Medical DNNs’ Vulnerability to Adversarial Examples**  
   **Yaguan Qian**, Renhui Tao, Huabin Du, Bin Wang*  
-  Cybersecurity, 2025 [PDF]()]
+  Cybersecurity, 2025 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-CS.pdf)]
 
 - **GAAT: Group Adaptive Adversarial Training to Improve the Trade-off between Robustness and Accuracy**  
   **Yaguan Qian**, Xiaoyu Liang, Ming Kang, Bin Wang*, Xin Wang, Zhaoquan Gu, Chunming Wu  
