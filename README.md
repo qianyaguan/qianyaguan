@@ -28,7 +28,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Enhancing Transferability of Adversarial Examples through Mixed-Frequency Inputs**  
   Yaguan Qian, Kecheng Chen, Bin Wang*, Zhaoquan Gu*, Shouling Ji, Wei Wang, Yanchun Zhang  
-  IEEE Transactions on Information Forensics and Security (TIFS), 2024, 19, pp. 7633-7645 [PDF]()]
+  IEEE Transactions on Information Forensics and Security (TIFS), 2024, 19, pp. 7633-7645 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-TIFS.pdf)]
 
 - **LEA2: A Lightweight Ensemble Adversarial Attack via Non-overlapping Vulnerable Frequency Regions**  
   Yaguan Qian*, Shuke He, Chenyu Zhao, Jiaqiang Sha, Wei Wang, Bin Wang  
