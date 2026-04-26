@@ -40,7 +40,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Hierarchical Threshold Pruning Based on Uniform Response Criterion**  
   Yaguan Qian, Zhiqiang He, Yuqi Wang, Bin Wang*, Xiang Ling, Shaoning Zeng, Zhaoquan Gu, Haijiang Wang, Wassim Swaileh  
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, 35(8), pp. 10869-10881 [PDF]()]
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, 35(8), pp. 10869-10881 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-TNNLS.pdf)]
 
 - **Robust Network Architecture Search via Feature Distortion Restraining**  
   Yaguan Qian, Shenghui Huang, Bin Wang*, Xiang Ling, Xiaohui Guan, Zhaoquan Gu, Shaoning Zeng, Wujie Zhou, Haijiang Wang  
