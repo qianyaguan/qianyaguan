@@ -85,15 +85,15 @@ My research interests mainly include large model security, intelligent system se
 
 - **Enhancing Robust Generalization through Appropriate Adversarial Example Attack Intensity**  
   Xiaoguo Ding, Liangjian Zhang, Qiqi Bao, **Yaguan Qian***, Bin Wang*, Zhaoquan Gu, Yanchun Zhang  
-  Neurocomputing, 657, 2025 [PDF]()]
+  Neurocomputing, 657, 2025 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-NeuE.pdf)]
 
 - **Adversarial Training via Multi-guidance and Historical Memory Enhancement**  
   Chenyu Zhao, **Yaguan Qian***, Bin Wang, Zhaoquan Gu, Shouling Ji, Wei Wang, Yanchun Zhang  
-  Neurocomputing, 619, 2025 [PDF]()]
+  Neurocomputing, 619, [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-NeuA.pdf)]
 
 - **Robust Filter Pruning Guided by Deep Frequency-features for Edge Intelligence**  
   **Yaguan Qian**, Wenzhuo Huang, Tengteng Yao, Kecheng Chen, Xiang Ling, Bin Wang*, Zhaoquan Gu, Yanchun Zhang  
-  Neurocomputing, 2024 [PDF]()]
+  Neurocomputing, 2024 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-NeuR.pdf)]
 
 - **Improving Adversarial Robustness of Medical Imaging Systems via Adding Global Attention Noise**  
   Yinyao Dai, **Yaguan Qian***, Fang Lu, Bin Wang*, Zhaoquan Gu, Wei Wang, Jian Wan, Yanchun Zhang  
