@@ -57,15 +57,15 @@ My research interests mainly include large model security, intelligent system se
 
 - **Spot Evasion Attacks: Adversarial Examples for License Plate Recognition Systems with Convolutional Neural Networks**  
   **Yaguan Qian**, Danfeng Ma*, Bin Wang, Jun Pan, Jiamin Wang, Zhaoquan Gu, Jianhai Chen, Wujie Zhou, Jingsheng Lei  
-  Computers & Security, 95, 2020, pp. 1-14 [PDF]()]
+  Computers & Security, 95, 2020, pp. 1-14 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2020-COSE.pdf)]
 
 - **Object-free Backdoor Attack and Defense on Semantic Segmentation**  
   Jiaoze Mao, **Yaguan Qian***, Jianchang Huang, Zejie Lian, Renhui Tao, Bin Wang, Wei Wang, Tengteng Yao  
-  Computers & Security, 132, 2023, pp. 1-15 [PDF]()]
+  Computers & Security, 132, 2023, pp. 1-15 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2023-COSE.pdf)]
 
 - **Visually Imperceptible Adversarial Patch Attacks**  
   **Yaguan Qian**, Jiaming Wang, Haijiang Wang, Zhaoquan Gu, Bin Wang*, Shaoning Zeng, Wassim Swaileh  
-  Computers & Security, 123, 2022, pp. 1-11 [PDF]()]
+  Computers & Security, 123, 2022, pp. 1-11 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2022-COSE.pdf)]
 
 - **Adversarial Attacks on Vision-Language Multimodal Systems: A Survey**  
   **Yaguan Qian**, Zhihao Chen, Qiqi Bao, Yan Gan, Chenhao Lin, Shuo Wang, Jiali Yin, Hegui Zhu, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*  
