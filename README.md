@@ -45,11 +45,11 @@ My research interests mainly include large model security, intelligent system se
 
 - **Robust Network Architecture Search via Feature Distortion Restraining**  
   **Yaguan Qian**, Shenghui Huang, Bin Wang*, Xiang Ling, Xiaohui Guan, Zhaoquan Gu, Shaoning Zeng, Wujie Zhou, Haijiang Wang  
-  European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 [PDF]()]
+  European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/ECCV-R.pdf)]
 
 - **Filter Pruning via Feature Discrimination in Deep Neural Networks**  
   Zhiqiang He, **Yaguan Qian***, Yuqi Wang, Bin Wang, Xiaohui Guan, Zhaoquan Gu, Xiang Ling, Shaoning Zeng, Haijiang Wang, Wujie Zhou  
-  European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 [PDF]()]
+  European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/ECCV-F.pdf)]
 
 - **Evading Backdoor Defense: Hiding Backdoor with Attention-Grabbing Scapegoat**  
   **Yaguan Qian**, Zejie Lian, Yiming Li, Wei Wang, Zhaoquan Gu*, Bin Wang, Yanchun Zhang  
