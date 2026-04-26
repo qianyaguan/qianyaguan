@@ -109,7 +109,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **GAAT: Group Adaptive Adversarial Training to Improve the Trade-off between Robustness and Accuracy**  
   **Yaguan Qian**, Xiaoyu Liang, Ming Kang, Bin Wang*, Xin Wang, Zhaoquan Gu, Chunming Wu  
-  International Journal of Pattern Recognition and Artificial Intelligence, 2022, 36(13), pp. 1-26 [PDF]()]
+  International Journal of Pattern Recognition and Artificial Intelligence, 2022, 36(13), pp. 1-26 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2022-GAAT.pdf)]
 
 - **Developing Hessian-Free Second-Order Adversarial Examples for Adversarial Learning**  
   **Yaguan Qian**, Liangjian Zhang, Yuqi Wang, Boyuan Ji, Tengteng Yao, Bin Wang*  
