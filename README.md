@@ -16,23 +16,23 @@ My research interests mainly include large model security, intelligent system se
   IEEE Transactions on Image Processing (TIP), 2026, 26, pp. 1082-1095 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIP.pdf)]
 
 - **Exploiting Shared Adversarial Features for Attacks in Large Vision-Language Models**  
-  Yaguan Qian, Xuchen Zhu, Qiqi Bao, Fei Yu, Wei Wang, Shouling Ji, Zhaoquan Gu*, Bin Wang*  
+  **Yaguan Qian**, Xuchen Zhu, Qiqi Bao, Fei Yu, Wei Wang, Shouling Ji, Zhaoquan Gu*, Bin Wang*  
   IEEE Transactions on Information Forensics and Security (TIFS), 2026, 21, pp. 592-607 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIFS.pdf)]
 
 - **A Multimodal Adversarial Attack Method Based on Frequency Domain Enhancement and Fine-grained Cross-modal Guidance**  
-  Yaguan Qian, Qinqin Yu, Qiqi Bao*, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*, Zhen Lei  
+  **Yaguan Qian**, Qinqin Yu, Qiqi Bao*, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*, Zhen Lei  
   IEEE Transactions on Dependable and Secure Computing (TDSC), 2025, 22(6), pp. 7877-7889 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-TDSC.pdf)]
 
 - **F2AT: Feature-Focusing Adversarial Training via Disentanglement of Natural and Perturbed Patterns**  
-  Yaguan Qian, Chenyu Zhao, Zhaoquan Gu*, Bin Wang*, Shouling Ji, Wei Wang, Yanchun Zhang  
+  **Yaguan Qian**, Chenyu Zhao, Zhaoquan Gu*, Bin Wang*, Shouling Ji, Wei Wang, Yanchun Zhang  
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(9), pp. 5201-5203 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-TKDE.pdf)]
 
 - **Enhancing Transferability of Adversarial Examples through Mixed-Frequency Inputs**  
-  Yaguan Qian, Kecheng Chen, Bin Wang*, Zhaoquan Gu*, Shouling Ji, Wei Wang, Yanchun Zhang  
+  **Yaguan Qian**, Kecheng Chen, Bin Wang*, Zhaoquan Gu*, Shouling Ji, Wei Wang, Yanchun Zhang  
   IEEE Transactions on Information Forensics and Security (TIFS), 2024, 19, pp. 7633-7645 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-TIFS.pdf)]
 
 - **LEA2: A Lightweight Ensemble Adversarial Attack via Non-overlapping Vulnerable Frequency Regions**  
-  Yaguan Qian*, Shuke He, Chenyu Zhao, Jiaqiang Sha, Wei Wang, Bin Wang  
+  **Yaguan Qian***, Shuke He, Chenyu Zhao, Jiaqiang Sha, Wei Wang, Bin Wang  
   International Conference on Computer Vision (ICCV), Paris, France, 2023 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2023-ICCV.pdf)]
 
 - **RPA: Recursive Perturbation-Based Universal Adversarial Attacks on Multimodal Generative Tasks**  
