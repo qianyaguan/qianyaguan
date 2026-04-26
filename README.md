@@ -9,8 +9,7 @@ My research interests mainly include large model security, intelligent system se
 - Trustworthy AI and AI Safety
 - Intelligent System Security & Robustness
 
-## <span style="font-family: 'Times New Roman', serif;">Publications</span>
-<span style="font-family: 'Times New Roman', serif;">
+## Publications
 
 - **Individuality & Commonality Attack: Enhancing Transferability in VLP Models through Modal Feature Exploitation**  
   Yaguan Qian, Yaxing Kong, Qiqi Bao, Zhaoquan Gu, Bin Wang, Shouling Ji, Jianping Zhang, Zhen Lei  
@@ -123,7 +122,7 @@ My research interests mainly include large model security, intelligent system se
 - **Enhancing Transferability of Targeted Adversarial Examples through Amplitude Spectrum Adjustment**  
   Yaguan Qian, Jiaqiang Sha, Pan Zhou, Wei Wang, Bin Wang*, Zhaoquan Gu*, Yanchun Zhang  
   Multimedia Systems, 2025 [PDF]()]
-</span>
+
 ## Contact
 Email: qianyaguan@zust.edu.cn  
 Welcome for academic communication and research collaboration.
