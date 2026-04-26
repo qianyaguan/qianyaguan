@@ -12,7 +12,7 @@ My research interests mainly include large model security, intelligent system se
 ## Publications
 - **Individuality & Commonality Attack: Enhancing Transferability in VLP Models through Modal Feature Exploitation**  
   Yaguan Qian, Yaxing Kong, Qiqi Bao, Zhaoquan Gu, Bin Wang, Shouling Ji, Jianping Zhang, Zhen Lei  
-  IEEE Transactions on Image Processing (TIP), 2026, 26, pp. 1082-1095 [[PDF](https://github.com/qianyaguan/qianyaguan/blob/main/papers/2026-TIP.pdf)]
+  IEEE Transactions on Image Processing (TIP), 2026, 26, pp. 1082-1095 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIP.pdf)]
 
 - **Exploiting Shared Adversarial Features for Attacks in Large Vision-Language Models**  
   Yaguan Qian, Xuchen Zhu, Qiqi Bao, Fei Yu, Wei Wang, Shouling Ji, Zhaoquan Gu*, Bin Wang*  
