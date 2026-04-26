@@ -53,7 +53,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Evading Backdoor Defense: Hiding Backdoor with Attention-Grabbing Scapegoat**  
   **Yaguan Qian**, Zejie Lian, Yiming Li, Wei Wang, Zhaoquan Gu*, Bin Wang, Yanchun Zhang  
-  Computers & Security, 150, 2025 [PDF]()]
+  Computers & Security, 150, 2025 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-COSE.pdf)]
 
 - **Spot Evasion Attacks: Adversarial Examples for License Plate Recognition Systems with Convolutional Neural Networks**  
   **Yaguan Qian**, Danfeng Ma*, Bin Wang, Jun Pan, Jiamin Wang, Zhaoquan Gu, Jianhai Chen, Wujie Zhou, Jingsheng Lei  
