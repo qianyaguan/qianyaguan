@@ -20,7 +20,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **A Multimodal Adversarial Attack Method Based on Frequency Domain Enhancement and Fine-grained Cross-modal Guidance**  
   Yaguan Qian, Qinqin Yu, Qiqi Bao*, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*, Zhen Lei  
-  IEEE Transactions on Dependable and Secure Computing (TDSC), 2025, 22(6), pp. 7877-7889 [PDF]()]
+  IEEE Transactions on Dependable and Secure Computing (TDSC), 2025, 22(6), pp. 7877-7889 [PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TDSC.pdf)]
 
 - **F2AT: Feature-Focusing Adversarial Training via Disentanglement of Natural and Perturbed Patterns**  
   Yaguan Qian, Chenyu Zhao, Zhaoquan Gu*, Bin Wang*, Shouling Ji, Wei Wang, Yanchun Zhang  
