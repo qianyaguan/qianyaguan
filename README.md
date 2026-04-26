@@ -24,7 +24,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **F2AT: Feature-Focusing Adversarial Training via Disentanglement of Natural and Perturbed Patterns**  
   Yaguan Qian, Chenyu Zhao, Zhaoquan Gu*, Bin Wang*, Shouling Ji, Wei Wang, Yanchun Zhang  
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(9), pp. 5201-5203 [PDF]()]
+  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(9), pp. 5201-5203 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2025-TKDE.pdf)]
 
 - **Enhancing Transferability of Adversarial Examples through Mixed-Frequency Inputs**  
   Yaguan Qian, Kecheng Chen, Bin Wang*, Zhaoquan Gu*, Shouling Ji, Wei Wang, Yanchun Zhang  
