@@ -81,7 +81,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Denoising Deep Features of Convolutional Neural Networks against Adversarial Examples**  
   Jianchang Huang, Yinyao Dai, Fang Lu, Bin Wang, Zhaoquan Gu, Boyang Zhou, **Yaguan Qian***  
-  Applied Intelligence, 54(2), 2024, pp. 1672-1690 [PDF]()]
+  Applied Intelligence, 54(2), 2024, pp. 1672-1690 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2024-AI.pdf)]
 
 - **Enhancing Robust Generalization through Appropriate Adversarial Example Attack Intensity**  
   Xiaoguo Ding, Liangjian Zhang, Qiqi Bao, **Yaguan Qian***, Bin Wang*, Zhaoquan Gu, Yanchun Zhang  
