@@ -16,7 +16,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **Exploiting Shared Adversarial Features for Attacks in Large Vision-Language Models**  
   Yaguan Qian, Xuchen Zhu, Qiqi Bao, Fei Yu, Wei Wang, Shouling Ji, Zhaoquan Gu*, Bin Wang*  
-  IEEE Transactions on Information Forensics and Security (TIFS), 2026, 21, pp. 592-607 [[PDF](https://github.com/qianyaguan/qianyaguan/blob/main/papers/2026-TIFS.pdf)]
+  IEEE Transactions on Information Forensics and Security (TIFS), 2026, 21, pp. 592-607 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIFS.pdf)]
 
 - **A Multimodal Adversarial Attack Method Based on Frequency Domain Enhancement and Fine-grained Cross-modal Guidance**  
   Yaguan Qian, Qinqin Yu, Qiqi Bao*, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*, Zhen Lei  
