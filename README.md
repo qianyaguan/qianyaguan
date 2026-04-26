@@ -1,6 +1,6 @@
 # Hi, I'm Yaguan Qian
 ## About Me
-I am currently a researcher at Zhejiang University of Science and Technology.
+I am currently a Full Professor at Zhejiang University of Science and Technology.
 My research interests mainly include large model security, intelligent system security, trustworthy AI, multimodal adversarial attacks and defenses.
 
 ## Research Interests
