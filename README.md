@@ -5,7 +5,7 @@ My research interests mainly include large model security, intelligent system se
 
 ## Research Interests
 - Large Vision-Language Model Security
-- Data protection in large model fine-tuning
+- Data Protection in Large Model Fine-tuning
 - Multimodal Adversarial Learning
 - Trustworthy AI and AI Safety
 - Intelligent System Security & Robustness
