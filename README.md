@@ -37,7 +37,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **RPA: Recursive Perturbation-Based Universal Adversarial Attacks on Multimodal Generative Tasks**  
   **Yaguan Qian**, Zhihao Chen, Qiqi Bao*, Chang Zong, Fei Yu, Shouling Ji, Wei Wang, Bin Wang, Zhaoquan Gu*  
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Early Access, 2025 [PDF]()]
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Early Access, 2025 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TCSVT.pdf)]
 
 - **Hierarchical Threshold Pruning Based on Uniform Response Criterion**  
   **Yaguan Qian**, Zhiqiang He, Yuqi Wang, Bin Wang*, Xiang Ling, Shaoning Zeng, Zhaoquan Gu, Haijiang Wang, Wassim Swaileh  
