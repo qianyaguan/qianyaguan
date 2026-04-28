@@ -4,8 +4,8 @@ I am currently a Full Professor at Zhejiang University of Science and Technology
 My research interests mainly include large model security, intelligent system security, trustworthy AI, multimodal adversarial attacks and defenses.
 
 ## Research Interests
-- Large Vision-Language Model Security
 - Data Protection in Large Model Fine-tuning
+- Large Vision-Language Model Security
 - Multimodal Adversarial Learning
 - Trustworthy AI and AI Safety
 - Intelligent System Security & Robustness
