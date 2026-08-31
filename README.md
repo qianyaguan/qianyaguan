@@ -14,7 +14,7 @@ My research interests mainly include large model security, intelligent system se
 
 - **LOKI: Locating Optimal Knock-In Points for Backdoor Attacks on Dense Retrievers**
   Qiqi Bao, Linzhi Feng, **Yaguan Qian***, Bin Wang, Zhaoquan Gu, Shouling Ji, Zhen Lei
-  Conference on Empirical Methods in Natural Language Processing (EMNLP-26). Budapest, Hungary, 2026 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIP.pdf)]
+  Conference on Empirical Methods in Natural Language Processing (EMNLP-26). Budapest, Hungary, 2026 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-EMNLP.pdf)]
 
 - **Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning**
   **Yaguan Qian**, Taining Zhang, Qiqi Bao, Yanru Guo, Lufang Zhang, Zhaoquan Gu, Shouling Ji, Bin Wang, Zhen Lei
