@@ -13,7 +13,7 @@ My research interests mainly include large model security, intelligent system se
 ## Publications
 
 
--**Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning**
+- **Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning**
 **Yaguan Qian**, Taining Zhang, Qiqi Bao, Yanru Guo, Lufang Zhang, Zhaoquan Gu, Shouling Ji, Bin Wang, Zhen Lei
 International Conference on Machine Learning (ICML-26). Seoul, South Korea, 2026 [[PDF](https://raw.githubusercontent.com/qianyaguan/qianyaguan/main/papers/2026-TIP.pdf)]
 
